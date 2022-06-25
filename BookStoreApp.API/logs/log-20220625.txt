@@ -1,0 +1,5 @@
+2022-06-25 12:10:25.287 -05:00 [INF] Now listening on: https://localhost:7025
+2022-06-25 12:10:25.353 -05:00 [INF] Now listening on: http://localhost:5025
+2022-06-25 12:10:25.361 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-25 12:10:25.363 -05:00 [INF] Hosting environment: Development
+2022-06-25 12:10:25.364 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
