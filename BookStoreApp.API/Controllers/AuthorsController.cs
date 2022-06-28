@@ -31,7 +31,7 @@ namespace BookStoreApp.API.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<AuthorReadOnlyDto>>> GetAuthors()
         {
-            throw new Exception("Test");
+            //throw new Exception("Test");
             logger.LogInformation($"Request to {nameof(GetAuthors)}");
             try
             {

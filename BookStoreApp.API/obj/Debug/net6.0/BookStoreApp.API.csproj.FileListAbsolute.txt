@@ -5,6 +5,8 @@ D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\BookStoreApp.API.runtimeconfig.json
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\BookStoreApp.API.dll
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\BookStoreApp.API.pdb
+D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\AutoMapper.dll
+D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\Humanizer.dll
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\MessagePack.dll
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -274,5 +276,3 @@ D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\obj\Debug\net6.0\BookStoreApp.API.pdb
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\obj\Debug\net6.0\BookStoreApp.API.genruntimeconfig.cache
 D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\obj\Debug\net6.0\ref\BookStoreApp.API.dll
-D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\AutoMapper.dll
-D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
