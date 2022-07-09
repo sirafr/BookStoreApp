@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BookStoreApp/FileContentIndex/read.lock
+/.vs/BookStoreApp/FileContentIndex/fd3972fd-04ff-4938-aac5-8d0c2b9232d7.vsidx
+/.vs/BookStoreApp/FileContentIndex/ce83185b-0da8-4ef3-b3d9-2ba56e72c20f.vsidx
+/.vs/BookStoreApp/FileContentIndex/8c7ed069-056a-4ab3-81f0-c9a91782f042.vsidx
+/.vs/BookStoreApp/FileContentIndex/4d0c9035-9f42-4ffd-ac9a-7ab27b0be419.vsidx
+/.vs/BookStoreApp
+/.vs/ProjectEvaluation
+/obj/Deub/net6.0/ref/BookStoreApp.API.dll
