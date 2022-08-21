@@ -119,7 +119,7 @@ namespace BookStoreApp.API.Controllers
                 issuer : configuration["JwtSettings:Issuer"],
                 audience: configuration["JwtSettings:Audience"],
                 claims: claims,
-                expires: DateTime.UtcNow.AddMinutes(Convert.ToInt32(configuration["JwtSettings:Audience"])),
+                expires: DateTime.UtcNow.AddMinutes(Convert.ToInt32(configuration["JwtSettings:Duration"])),
                 signingCredentials : credentials
                 );
 
