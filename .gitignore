@@ -9,4 +9,5 @@
 /.vs/BookStoreApp/FileContentIndex/4d0c9035-9f42-4ffd-ac9a-7ab27b0be419.vsidx
 /.vs/BookStoreApp
 /.vs/ProjectEvaluation
-/obj/Deub/net6.0/ref/BookStoreApp.API.dll
+/bin/Debug/net6.0
+/obj/Debug/net6.0
