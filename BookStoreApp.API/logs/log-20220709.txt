@@ -1,0 +1,20 @@
+2022-07-09 12:48:18.993 -05:00 [INF] Now listening on: https://localhost:7025
+2022-07-09 12:48:19.039 -05:00 [INF] Now listening on: http://localhost:5025
+2022-07-09 12:48:19.046 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-09 12:48:19.046 -05:00 [INF] Hosting environment: Development
+2022-07-09 12:48:19.048 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-07-09 12:49:46.205 -05:00 [INF] Login Attemp for user@bookstore.com
+2022-07-09 12:49:51.941 -05:00 [WRN] Invalid password for user.
+2022-07-09 12:50:18.270 -05:00 [INF] Login Attemp for user@bookstore.com
+2022-07-09 12:53:57.411 -05:00 [INF] Registration attemp for user1@bookstore.com
+2022-07-09 12:53:57.432 -05:00 [WRN] User validation failed: InvalidUserName.
+2022-07-09 12:53:59.021 -05:00 [INF] Registration attemp for user1@bookstore.com
+2022-07-09 12:53:59.031 -05:00 [WRN] User validation failed: InvalidUserName.
+2022-07-09 12:54:56.966 -05:00 [INF] Now listening on: https://localhost:7025
+2022-07-09 12:54:57.113 -05:00 [INF] Now listening on: http://localhost:5025
+2022-07-09 12:54:57.119 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-09 12:54:57.120 -05:00 [INF] Hosting environment: Development
+2022-07-09 12:54:57.121 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-07-09 12:56:36.385 -05:00 [INF] Registration attemp for user1@bookstore.com
+2022-07-09 12:57:08.391 -05:00 [INF] Login Attemp for user1@bookstore.com
+2022-07-09 12:57:12.445 -05:00 [INF] Login Attemp for user1@bookstore.com

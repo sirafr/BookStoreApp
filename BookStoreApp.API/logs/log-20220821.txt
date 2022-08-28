@@ -1,0 +1,14 @@
+2022-08-21 14:40:26.067 -05:00 [INF] Now listening on: https://localhost:7025
+2022-08-21 14:40:26.146 -05:00 [INF] Now listening on: http://localhost:5025
+2022-08-21 14:40:26.153 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-21 14:40:26.154 -05:00 [INF] Hosting environment: Development
+2022-08-21 14:40:26.155 -05:00 [INF] Content root path: G:\Dev\BookStoreApp\BookStoreApp.API\
+2022-08-21 14:44:22.564 -05:00 [INF] Login Attemp for user@bookstore.com
+2022-08-21 14:47:32.218 -05:00 [INF] Login Attemp for user@bookstore.com
+2022-08-21 15:35:32.796 -05:00 [INF] Now listening on: https://localhost:7025
+2022-08-21 15:35:32.856 -05:00 [INF] Now listening on: http://localhost:5025
+2022-08-21 15:35:32.864 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-08-21 15:35:32.864 -05:00 [INF] Hosting environment: Development
+2022-08-21 15:35:32.865 -05:00 [INF] Content root path: G:\Dev\BookStoreApp\BookStoreApp.API\
+2022-08-21 15:36:27.359 -05:00 [INF] Login Attemp for admin@bookstore.com
+2022-08-21 15:41:15.883 -05:00 [INF] Login Attemp for admin@bookstore.com
