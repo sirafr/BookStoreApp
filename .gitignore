@@ -32,3 +32,4 @@
 /BookStoreApp.Blazor.Server.UI/bin/Debug/net6.0
 /BookStoreApp.Blazor.Server.UI/obj/Debug/net6.0
 /BookStoreApp.Blazor.Server.UI/obj
+BookStoreApp.API/bin/Debug/net6.0/appsettings.json
