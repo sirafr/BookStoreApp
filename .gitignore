@@ -50,3 +50,4 @@ Version.cs
 Version.h
 Version.cpp
 .sentinel
+BookStoreApp.API/obj/staticwebassets.pack.sentinel
