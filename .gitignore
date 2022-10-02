@@ -51,3 +51,6 @@ Version.h
 Version.cpp
 .sentinel
 BookStoreApp.API/obj/staticwebassets.pack.sentinel
+/BookStoreApp.API/bin/Debug/net6.0
+/BookStoreApp.API/obj/Debug/net6.0
+/BookStoreApp.API/obj
