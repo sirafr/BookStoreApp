@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Components.Authorization;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
-namespace BookStoreApp.Blazor.Server.UI.Pages.Providers
+namespace BookStoreApp.Blazor.Server.UI.Providers
 {
     public class ApiAuthenticationStateProvider : AuthenticationStateProvider
     {
@@ -18,13 +18,13 @@ namespace BookStoreApp.Blazor.Server.UI.Pages.Providers
         {
             var user = new ClaimsPrincipal(new ClaimsIdentity());
             var savedToken = await localStorage.GetItemAsync<string>("accessToken");
-            if(savedToken == null)
+            if (savedToken == null)
             {
                 return new AuthenticationState(user);
             }
             var tokenContent = jwtSecurityTokenHandler.ReadJwtToken(savedToken);
 
-            if(tokenContent.ValidTo < DateTime.Now)
+            if (tokenContent.ValidTo < DateTime.Now)
             {
                 return new AuthenticationState(user);
             }

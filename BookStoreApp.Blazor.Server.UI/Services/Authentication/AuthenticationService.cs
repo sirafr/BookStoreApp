@@ -1,5 +1,5 @@
 ﻿using Blazored.LocalStorage;
-using BookStoreApp.Blazor.Server.UI.Pages.Providers;
+using BookStoreApp.Blazor.Server.UI.Providers;
 using BookStoreApp.Blazor.Server.UI.Services.Base;
 using Microsoft.AspNetCore.Components.Authorization;
 
