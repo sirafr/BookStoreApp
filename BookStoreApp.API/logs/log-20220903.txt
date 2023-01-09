@@ -1,0 +1,51 @@
+2022-09-03 16:34:28.828 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:34:28.956 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:34:28.960 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:34:28.961 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:34:28.962 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:35:50.154 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:35:50.201 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:35:50.207 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:35:50.207 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:35:50.208 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:41:19.472 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:41:19.639 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:41:19.644 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:41:19.644 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:41:19.645 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:41:58.850 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:41:59.260 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:41:59.266 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:41:59.266 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:41:59.267 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:46:08.482 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:46:08.795 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:46:08.800 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:46:08.800 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:46:08.801 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:47:07.054 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:47:07.936 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:47:07.942 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:47:07.942 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:47:07.943 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:50:24.465 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 16:50:24.568 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 16:50:24.572 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 16:50:24.573 -05:00 [INF] Hosting environment: Development
+2022-09-03 16:50:24.574 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 16:52:01.658 -05:00 [INF] Registration attemp for admin1@bookstore.com
+2022-09-03 16:52:01.675 -05:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric.
+2022-09-03 16:52:37.000 -05:00 [INF] Registration attemp for admin1@bookstore.com
+2022-09-03 17:13:43.046 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 17:13:43.360 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 17:13:43.367 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 17:13:43.368 -05:00 [INF] Hosting environment: Development
+2022-09-03 17:13:43.368 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 17:13:56.465 -05:00 [INF] Now listening on: https://localhost:7025
+2022-09-03 17:13:56.813 -05:00 [INF] Now listening on: http://localhost:5025
+2022-09-03 17:13:56.820 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-09-03 17:13:56.821 -05:00 [INF] Hosting environment: Development
+2022-09-03 17:13:56.823 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2022-09-03 17:14:16.360 -05:00 [INF] Registration attemp for admin1@bookstore.com
+2022-09-03 17:14:18.090 -05:00 [WRN] User validation failed: DuplicateUserName.
+2022-09-03 17:14:41.532 -05:00 [INF] Registration attemp for admin2@bookstore.com
