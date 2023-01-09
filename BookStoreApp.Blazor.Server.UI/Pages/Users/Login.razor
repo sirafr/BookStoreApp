@@ -1,5 +1,6 @@
 ﻿@page "/users/login"
 @inject IAuthenticationService authentication
+@inject NavigationManager navManager
 
 <h3>Login</h3>
 
@@ -36,7 +37,7 @@
 
             if (response)
             {
-
+                navManager.NavigateTo("/");
             }
             message = "Invalid credentials, please try again";
         }

@@ -1,0 +1,21 @@
+2023-01-08 21:45:12.869 -05:00 [INF] Now listening on: https://localhost:7025
+2023-01-08 21:45:13.005 -05:00 [INF] Now listening on: http://localhost:5025
+2023-01-08 21:45:13.013 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-08 21:45:13.013 -05:00 [INF] Hosting environment: Development
+2023-01-08 21:45:13.013 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2023-01-08 21:45:34.122 -05:00 [INF] Login Attemp for admin1@bookstore.com
+2023-01-08 21:45:41.894 -05:00 [WRN] Invalid password for user.
+2023-01-08 21:46:19.676 -05:00 [INF] Registration attemp for admin3@bookstore.com
+2023-01-08 21:46:19.850 -05:00 [WRN] User password validation failed: PasswordRequiresNonAlphanumeric.
+2023-01-08 21:46:35.120 -05:00 [INF] Registration attemp for admin3@bookstore.com
+2023-01-08 21:46:52.708 -05:00 [INF] Login Attemp for admin3@bookstore.com
+2023-01-08 21:57:20.847 -05:00 [INF] Now listening on: https://localhost:7025
+2023-01-08 21:57:21.383 -05:00 [INF] Now listening on: http://localhost:5025
+2023-01-08 21:57:21.465 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-08 21:57:21.468 -05:00 [INF] Hosting environment: Development
+2023-01-08 21:57:21.477 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
+2023-01-08 21:59:40.280 -05:00 [INF] Now listening on: https://localhost:7025
+2023-01-08 21:59:40.470 -05:00 [INF] Now listening on: http://localhost:5025
+2023-01-08 21:59:40.477 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-01-08 21:59:40.477 -05:00 [INF] Hosting environment: Development
+2023-01-08 21:59:40.478 -05:00 [INF] Content root path: D:\sirafr\softwareDevelop\programming\NetFramework\BookStoreApp\BookStoreApp.API\
