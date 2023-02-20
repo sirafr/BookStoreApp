@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BookStoreApp.API/bin/Debug/net6.0
+/BookStoreApp.API/obj/Debug/net6.0/staticwebassets
+/BookStoreApp.Blazor.Server.UI/bin/Debug/net6.0
+/BookStoreApp.Blazor.Server.UI/obj/Debug/net6.0
+/BookStoreApp.Blazor.Server.UI/obj
+/BookStoreApp.API
+/.vs
+/BookStore
